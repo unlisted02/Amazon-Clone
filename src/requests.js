@@ -56,6 +56,7 @@ const requests = [
     url: `/discover/movie?api_key=${API_KEY}&with_genres=80`,
     media: "movie",
   },
+  
   {
     title: "Short Films",
     url: `/discover/movie?api_key=${API_KEY}&with_runtime.lte=70`,

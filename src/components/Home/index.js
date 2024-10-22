@@ -3,6 +3,7 @@ import MediaScreen from "../MediaScreen";
 import Slideshow from "../Slideshow";
 import "./styles.scss";
 
+
 const Home = ({ api_key, requests, slideShowUrl }) => {
   return (
     <div>

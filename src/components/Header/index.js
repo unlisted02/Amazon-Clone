@@ -5,7 +5,9 @@ import SearchOutlinedIcon from "@material-ui/icons/SearchOutlined";
 import AccountCircleOutlinedIcon from "@material-ui/icons/AccountCircleOutlined";
 import { Link } from "react-router-dom";
 
-const Header = () => {
+const Header = (
+  
+) => {
   return (
     <div className="header">
       <div className="iconDiv">

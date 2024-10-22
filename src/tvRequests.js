@@ -21,5 +21,6 @@ const tvrequests = [
     url: `/discover/tv?api_key=${API_KEY}&region=IN`,
     media: "tv",
   },
+  
 ];
 export default tvrequests;

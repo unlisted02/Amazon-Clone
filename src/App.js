@@ -10,7 +10,10 @@ import tvrequests from "./tvRequests";
 import homeRequests from "./homeRequests";
 import TV from "./components/TV/index";
 
-function App() {
+
+function App(
+  
+) {
   const api_key = "989a8027930013244e3c2af17088dcac";
   return (
     <Router>

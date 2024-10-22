@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "../../axios";
 import "./styles.scss";
 
+
 const Slideshow = ({ fetch_url, api_key }) => {
   const [sshow, setSshow] = useState([]);
   const base_url = "https://image.tmdb.org/t/p/original/";

@@ -13,6 +13,7 @@ const AllContent = ({ API_KEY }) => {
 
   useEffect(() => {
     const request1 = axiosR.get(
+     
       `/discover/movie/?api_key=${API_KEY}&with_genres=${genre_id}`
     );
     const request2 = axiosR.get(

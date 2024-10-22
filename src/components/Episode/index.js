@@ -2,6 +2,7 @@ import React from "react";
 import "./styles.scss";
 import PlayCircleFilledWhiteIcon from "@material-ui/icons/PlayCircleFilledWhite";
 
+
 const Episode = ({ index, episode }) => {
   const base_img_url = "https://image.tmdb.org/t/p/original/";
   return (
