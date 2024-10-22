@@ -33,9 +33,7 @@ Screenshots of the App:
 ![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/4.PNG)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/5.PNG)
-
-#### Contact Details: Email id => peeyushgoyal154@gmail.com
+#### Contact Details: Email id => unlistedme79@gmail.com
 
 ## Featured
 https://freesoff.com/t/160-open-source-clones-of-popular-sites/88788
